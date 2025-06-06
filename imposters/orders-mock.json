@@ -1,0 +1,134 @@
+{
+  "orders": [
+    {
+      "id": "order-123",
+      "creation_date": "2025-02-13T10:00:00Z",
+      "type": "purchase",
+      "description": "Order for electronic items",
+      "status": "created",
+      "order_items": [
+        {
+          "product_display_name": "Smartphone XYZ",
+          "product_images": [
+            {
+              "alt_text": "Imagem do Smartphone XYZ",
+              "format": "product",
+              "image_type": "PRIMARY",
+              "url": "/example.com/images/smartphone.jpg"
+            }
+          ],
+          "product_type": "DEVICE"
+        }
+      ],
+      "expected_delivery_time": {
+        "min": 1,
+        "max": 0
+      },
+      "completion_date": "2025-04-24T15:00:00Z",
+      "offer_id": "offer-789",
+      "related_orders": [
+        {
+          "order_id": "order-456"
+        }
+      ],
+      "additional_info": [
+        {
+          "key": "delivery_note",
+          "value": "Deixar na portaria"
+        }
+      ]
+    },
+    {
+      "id": "order-124",
+      "creation_date": "2025-02-12T14:30:00Z",
+      "type": "purchase",
+      "description": "Order for electronic items",
+      "status": "processing",
+      "order_items": [
+        {
+          "product_display_name": "Smartphone XYZ",
+          "product_images": [
+            {
+              "alt_text": "Imagem do Smartphone XYZ",
+              "format": "product",
+              "url": "/example.com/images/smartphone.jpg"
+            },
+            {
+              "alt_text": "Imagem do Smartphone XYZ",
+              "format": "product",
+              "image_type": "PRIMARY"
+            },
+            {
+              "alt_text": "Imagem do Smartphone XYZ",
+              "format": "product",
+              "image_type": "PRIMARY",
+              "url": "/example.com/images/smartphone.jpg"
+            }
+          ],
+          "product_type": "DEVICE"
+        }
+      ],
+      "expected_delivery_time": {
+        "min": 1,
+        "max": 0
+      },
+      "completion_date": "2025-04-24T15:00:00Z",
+      "offer_id": "offer-789",
+      "related_orders": [
+        {
+          "order_id": "order-456"
+        }
+      ],
+      "additional_info": [
+        {
+          "key": "delivery_note",
+          "value": "Deixar na portaria"
+        }
+      ]
+    },
+    {
+      "id": "order-125",
+      "creation_date": "2025-02-11T09:15:00Z",
+      "status": "delivered",
+      "type": "purchase",
+      "description": "Order for electronic items",
+      "order_items": [
+        {
+          "product_display_name": "Smartphone XYZ",
+          "product_images": [
+            {
+              "alt_text": "Imagem do Smartphone XYZ",
+              "format": "jpg",
+              "image_type": "thumbnail",
+              "url": "https://example.com/images/smartphone.jpg"
+            }
+          ],
+          "product_type": "MOBILE"
+        }
+      ],
+      "expected_delivery_time": {
+        "min": 1,
+        "max": 0
+      },
+      "completion_date": "2025-04-24T15:00:00Z",
+      "offer_id": "offer-789",
+      "related_orders": [
+        {
+          "order_id": "order-456"
+        }
+      ],
+      "additional_info": [
+        {
+          "key": "delivery_note",
+          "value": "Deixar na portaria"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "page_size": 10,
+    "total_pages": 5,
+    "total_results": 2
+  }
+}

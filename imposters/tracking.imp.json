@@ -1,0 +1,15 @@
+[
+  {
+    "request": {
+      "method": "GET",
+      "endpoint": "/product-orders-tracking-br/v1/users/b07b6c5d-f91c-3238-8f2d-1f045c676868/orders"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFile": "orders-mock.json"
+    }
+  }
+]
