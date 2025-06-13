@@ -1,0 +1,125 @@
+{
+  "id": "order-123",
+  "creation_date": "2025-02-13T10:00:00Z",
+  "expected_delivery_time": {
+    "min": "1",
+    "max": "0"
+  },
+  "consignments": [
+    {
+      "id": "consignment-001",
+      "status_history": [
+        {
+          "start_date": "2025-02-20T08:00:00Z",
+          "status": "Processing"
+        },
+        {
+          "start_date": "2025-02-20T10:00:00Z",
+          "status": "Shipped"
+        }
+      ],
+      "sub_status": "in-transit",
+      "status": "Shipped",
+      "order_items": [
+        {
+          "item_id": "item_001",
+          "product_display_name": "Smartphone XYZ",
+          "product_id": "prod_123",
+          "product_type": "DEVICE",
+          "product_url": "undefined/example.com/images/smartphone.jpg",
+          "product_images": [
+            {
+              "alt_text": "Imagem do Smartphone XYZ",
+              "format": "product",
+              "image_type": "PRIMARY",
+              "url": "undefined/example.com/images/smartphone.jpg"
+            }
+          ],
+          "loyalty_information": {
+            "code": "LOYAL123",
+            "name": "Premium Loyalty",
+            "plan": "Gold",
+            "loyalty_network_number": "987654321",
+            "valid_for_start_date": "2025-01-01",
+            "valid_for_end_date": "2025-02-01"
+          },
+          "base_amount": {
+            "currency": "USD",
+            "formatted_value": "$90.00",
+            "value": 90.0,
+            "price_type": 1
+          },
+          "total_amount": {
+            "currency": "USD",
+            "formatted_value": "$90.00",
+            "value": 90.0,
+            "price_type": 1
+          }
+        }
+      ]
+    }
+  ],
+  "delivery_info": {
+    "address": {
+      "formatted_address": "123 Main St, Springfield, USA",
+      "postal_code": "12345",
+      "state_info": {
+        "name": "Amapá",
+        "state_acronym": "AP"
+      },
+      "city": "Springfield"
+    },
+    "delivery_cost": {
+      "value": "12",
+      "formatted_value": "Grátis",
+      "free_shipping": true
+    }
+  },
+  "user_info": {
+    "email": "teste@email.com",
+    "mobile_phone": "911231231",
+    "name": "Nome Teste"
+  },
+  "payment_info": {
+    "payment_method": "Credit Card",
+    "card_info": {
+      "masked_number": "**** **** **** 1234",
+      "brand": "Visa",
+      "installments": 12,
+      "installment_price": {
+        "currency": "USD",
+        "formatted_value": "$100.00",
+        "price_type": 1,
+        "value": 100.0
+      }
+    },
+    "pix_info": {
+      "copy_code": "copy_mock",
+      "code_creation_time": "code_mock",
+      "code_expiration_minutes": 12,
+      "code_expiration_time": "expiry_mock"
+    }
+  },
+  "applied_vouchers": [
+    {
+      "code": "DISCOUNT10",
+      "name": "10% Off"
+    }
+  ],
+  "total_discounts": {
+    "currency": "USD",
+    "formatted_value": "$10.00",
+    "value": 10.0,
+    "tax_included": true
+  },
+  "loyalty_discounts": {
+    "currency": "BRL",
+    "tax_included": false,
+    "value": 23
+  },
+  "total_price": {
+    "currency": "USD",
+    "formatted_value": "$90.00",
+    "value": 90.0
+  }
+}

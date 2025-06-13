@@ -2,7 +2,7 @@
   {
     "request": {
       "method": "GET",
-      "endpoint": "/product-orders-tracking-br/v1/users/b07b6c5d-f91c-3238-8f2d-1f045c676868/orders"
+      "endpoint": "/product-orders-tracking-br/v1/users/262e3854-3475-4176-8011-9401c06099e4/orders"
     },
     "response": {
       "status": 200,

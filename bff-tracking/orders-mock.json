@@ -1,0 +1,83 @@
+{
+  "totalPages": 5,
+  "page": 1,
+  "pageSize": 10,
+  "results": [
+    {
+      "id": "order-123",
+      "creation_date": "2025-02-13T10:00:00Z",
+      "status": "Em andamento",
+      "type": "purchase",
+      "description": "Order for electronic items",
+      "order_items": [
+        {
+          "product_display_name": "Smartphone XYZ",
+          "product_images": [
+            {
+              "alt_text": "Imagem do Smartphone XYZ",
+              "format": "product",
+              "image_type": "PRIMARY",
+              "url": "undefined/example.com/images/smartphone.jpg"
+            }
+          ],
+          "product_type": "DEVICE"
+        }
+      ],
+      "expected_delivery_time": {
+        "min": "1",
+        "max": "0"
+      },
+      "completion_date": "2025-04-24T15:00:00Z",
+      "offer_id": "offer-789",
+      "related_orders": [
+        {
+          "order_id": "order-456"
+        }
+      ],
+      "additional_info": [
+        {
+          "key": "delivery_note",
+          "value": "Deixar na portaria"
+        }
+      ]
+    },
+    {
+      "id": "order-124",
+      "creation_date": "2025-02-12T14:30:00Z",
+      "status": "Em andamento",
+      "type": "purchase",
+      "description": "Order for electronic items",
+      "order_items": [
+        {
+          "product_display_name": "Smartphone XYZ",
+          "product_images": [
+            {
+              "alt_text": "Imagem do Smartphone XYZ",
+              "format": "product",
+              "image_type": "PRIMARY",
+              "url": "undefined/example.com/images/smartphone.jpg"
+            }
+          ],
+          "product_type": "DEVICE"
+        }
+      ],
+      "expected_delivery_time": {
+        "min": "1",
+        "max": "0"
+      },
+      "completion_date": "2025-04-24T15:00:00Z",
+      "offer_id": "offer-789",
+      "related_orders": [
+        {
+          "order_id": "order-456"
+        }
+      ],
+      "additional_info": [
+        {
+          "key": "delivery_note",
+          "value": "Deixar na portaria"
+        }
+      ]
+    }
+  ]
+}

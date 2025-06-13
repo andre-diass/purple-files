@@ -1,0 +1,47 @@
+[
+  {
+    "request": {
+      "method": "GET",
+      "endpoint": "/eletronics/order/order-123"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFile": "order-by-id-mock.json"
+    }
+  },
+  {
+    "request": {
+      "method": "GET",
+      "endpoint": "/eletronics/orders",
+      "queryString": {
+        "fields": "full"
+      }
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFile": "orders-mock.json"
+    }
+  },
+  {
+    "request": {
+      "method": "GET",
+      "endpoint": "/eletronics/order/nfe/fake-nfe-code",
+      "queryString": {
+        "fields": "full"
+      }
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFile": "nfe-mock.json"
+    }
+  }
+]

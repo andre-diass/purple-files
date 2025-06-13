@@ -1,0 +1,12 @@
+imposters_path: "/"
+port: 8081
+host: ""
+watcher: true
+secure: false
+
+cors:
+  methods: ["GET"]
+  headers: ["Content-Type"]
+  exposed_headers: ["Cache-Control"]
+  origins: ["http://localhost:3004"]
+  allow_credentials: true

@@ -51,12 +51,14 @@
             {
               "alt_text": "Imagem do Smartphone XYZ",
               "format": "product",
+              "image_type": "PRIMARY",
               "url": "/example.com/images/smartphone.jpg"
             },
             {
               "alt_text": "Imagem do Smartphone XYZ",
               "format": "product",
-              "image_type": "PRIMARY"
+              "image_type": "PRIMARY",
+              "url": "/example.com/images/smartphone.jpg"
             },
             {
               "alt_text": "Imagem do Smartphone XYZ",
