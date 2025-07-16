@@ -2,7 +2,7 @@
   {
     "request": {
       "method": "GET",
-      "endpoint": "/product-orders-tracking-br/v1/users/262e3854-3475-4176-8011-9401c06099e4/orders"
+      "endpoint": "/product-orders-tracking-br/v1/users/493c69e0-42ed-4fa3-968b-73911024fc64/orders"
     },
     "response": {
       "status": 200,
@@ -10,6 +10,19 @@
         "Content-Type": "application/json"
       },
       "bodyFile": "orders-mock.json"
+    }
+  },
+  {
+    "request": {
+      "method": "GET",
+      "endpoint": "/customerOrderManagement/salesOrderManagement/v1/productOrders/fake-nfe-code/salesOrderDetail"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFile": "nfe-mock.json"
     }
   }
 ]
