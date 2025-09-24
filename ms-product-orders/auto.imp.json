@@ -15,7 +15,7 @@
   {
     "request": {
       "method": "GET",
-      "endpoint": "/sales-order-management/v1/productOrders/2009471957/salesOrderDetail"
+      "endpoint": "/sales-order-management/v1/productOrders/2009473565/salesOrderDetail"
     },
     "response": {
       "status": 200,

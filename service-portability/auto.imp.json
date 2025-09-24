@@ -1,0 +1,52 @@
+[
+  {
+    "request": {
+      "method": "GET",
+      "endpoint": "/networkNumberManagement/numberPortability/v2/portabilityTicket/ticket"
+    },
+    "queryString": {
+      "customerId": "17011394052"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFile": "number-portability.json"
+    }
+  },
+  {
+    "request": {
+      "method": "GET",
+      "endpoint": "/sim-management-br/v1/users/e9d4facb-3985-4122-ad3d-2f44cbe0d4fb/sims"
+    },
+    "queryString": {
+      "identifier": "11993507607"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFile": "sim-management.json"
+    }
+  },
+  {
+    "request": {
+      "method": "GET",
+      "endpoint": "/dip/numberPortabilitySupport/v1/portability/informations"
+    },
+    "queryString": {
+      "phoneNumber": "11993507607",
+      "documentId": "17011394052",
+      "customerId": "310274554"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFile": "number-portability-support.json"
+    }
+  }
+]

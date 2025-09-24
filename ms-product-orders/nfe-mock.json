@@ -1,36 +1,128 @@
 {
   "salesSlipCharacteristics": [
     {
-      "key": "nfeProc/NFe/infNFe/emit/xNome",
-      "value": "DISTRIBUIDORA ALFA COMÉRCIO "
+      "key": "nfeProc/@versao",
+      "value": "4.00"
     },
     {
-      "key": "nfeProc/NFe/infNFe/ide/nNF",
-      "value": "102938"
+      "key": "nfeProc/NFe/infNFe/@Id",
+      "value": "NFe35241002558157006950550000051103611523503651"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/@versao",
+      "value": "4.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/cUF",
+      "value": "35"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/cNF",
+      "value": "52350365"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/natOp",
+      "value": "Venda .Em Op.Om Merc.Suj.A St,Na Cond. Cont. Sub."
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/mod",
+      "value": "55"
     },
     {
       "key": "nfeProc/NFe/infNFe/ide/serie",
-      "value": "3"
+      "value": "0"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/nNF",
+      "value": "5110361"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/dhEmi",
+      "value": "2024-10-10T18:31:38-03:00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/tpNF",
+      "value": "1"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/idDest",
+      "value": "1"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/cMunFG",
+      "value": "3550308"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/tpImp",
+      "value": "2"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/tpEmis",
+      "value": "1"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/cDV",
+      "value": "1"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/tpAmb",
+      "value": "2"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/finNFe",
+      "value": "1"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/indFinal",
+      "value": "1"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/indPres",
+      "value": "1"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/procEmi",
+      "value": "0"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/ide/verProc",
+      "value": "SAP NF-E 10.0"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/emit/CNPJ",
+      "value": "02558157006950"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/emit/xNome",
+      "value": "TELEFONICA BRASIL S/A"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/emit/xFant",
+      "value": "Loja Morumbi"
     },
     {
       "key": "nfeProc/NFe/infNFe/emit/enderEmit/xLgr",
-      "value": "Av/ Brasil"
+      "value": "Av Roque Petroni Jr"
     },
     {
       "key": "nfeProc/NFe/infNFe/emit/enderEmit/nro",
-      "value": "1980"
+      "value": "1089"
     },
     {
       "key": "nfeProc/NFe/infNFe/emit/enderEmit/xCpl",
-      "value": "Galpão B"
+      "value": "1089"
     },
     {
       "key": "nfeProc/NFe/infNFe/emit/enderEmit/xBairro",
-      "value": "Centro Industrial"
+      "value": "Jardim das Acacias"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/emit/enderEmit/cMun",
+      "value": "3550308"
     },
     {
       "key": "nfeProc/NFe/infNFe/emit/enderEmit/xMun",
-      "value": "Ribeirão Preto"
+      "value": "SAO PAULO"
     },
     {
       "key": "nfeProc/NFe/infNFe/emit/enderEmit/UF",
@@ -38,336 +130,439 @@
     },
     {
       "key": "nfeProc/NFe/infNFe/emit/enderEmit/CEP",
-      "value": "14020-030"
+      "value": "04707900"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/emit/enderEmit/xPais",
+      "value": "Brasil"
     },
     {
       "key": "nfeProc/NFe/infNFe/emit/enderEmit/fone",
-      "value": "1632124455"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/ide/tpNF",
-      "value": "1"
-    },
-    {
-      "key": "protNFe/infProt/chNFe",
-      "value": "35240645678912000123550010000102938123456789"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/ide/natOp",
-      "value": "VENDA DE PRODUTOS INDUSTRIALIZADOS"
-    },
-    {
-      "key": "protNFe/infProt/nProt",
-      "value": "135220000123456"
-    },
-    {
-      "key": "protNFe/infProt/dhRecbto",
-      "value": "2025-06-22T14:32:45-03:00"
+      "value": "1174200000"
     },
     {
       "key": "nfeProc/NFe/infNFe/emit/IE",
-      "value": "123456789012"
+      "value": "108383949112"
     },
     {
-      "key": "nfeProc/NFe/infNFe/emit/IEST",
-      "value": "1122334455ferferf"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/emit/CNPJ",
-      "value": "12345678000199"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/dest/xNome",
-      "value": "JOÃO DA SILVA ME"
+      "key": "nfeProc/NFe/infNFe/emit/CRT",
+      "value": "3"
     },
     {
       "key": "nfeProc/NFe/infNFe/dest/CPF",
-      "value": "12345678909"
+      "value": "44657382004"
     },
     {
-      "key": "nfeProc/NFe/infNFe/ide/dhEmi",
-      "value": "2025-06-22T13:47:00-03:00"
+      "key": "nfeProc/NFe/infNFe/dest/xNome",
+      "value": "NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL"
     },
     {
       "key": "nfeProc/NFe/infNFe/dest/enderDest/xLgr",
-      "value": "Rua das Acácias"
+      "value": "PC ANTONIO PRADO, N 331,"
     },
     {
       "key": "nfeProc/NFe/infNFe/dest/enderDest/nro",
-      "value": "555"
+      "value": "N/A"
     },
     {
       "key": "nfeProc/NFe/infNFe/dest/enderDest/xCpl",
-      "value": "Casa 2"
+      "value": "NA"
     },
     {
       "key": "nfeProc/NFe/infNFe/dest/enderDest/xBairro",
-      "value": "Vila Esperança"
+      "value": "NA"
     },
     {
-      "key": "nfeProc/NFe/infNFe/dest/enderDest/CEP",
-      "value": "72015-000"
+      "key": "nfeProc/NFe/infNFe/dest/enderDest/cMun",
+      "value": "3550308"
     },
     {
       "key": "nfeProc/NFe/infNFe/dest/enderDest/xMun",
-      "value": "Brasília"
+      "value": "NA"
     },
     {
       "key": "nfeProc/NFe/infNFe/dest/enderDest/UF",
-      "value": "DF"
+      "value": "SP"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/dest/enderDest/CEP",
+      "value": "01010010"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/dest/enderDest/cPais",
+      "value": "1058"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/dest/enderDest/xPais",
+      "value": "Brasil"
     },
     {
       "key": "nfeProc/NFe/infNFe/dest/indIEDest",
+      "value": "9"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/@nItem",
       "value": "1"
     },
     {
-      "key": "nfeProc/NFe/infNFe/dest/enderDest/fone",
-      "value": "96 991804318"
+      "key": "nfeProc/NFe/infNFe/det/prod/cProd",
+      "value": "000000000022018250"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/cEAN",
+      "value": "7898564048650"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/xProd",
+      "value": "OVVI AF CABO USB-C KEVLAR PTV 22020782"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/NCM",
+      "value": "85177000000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/CEST",
+      "value": "2804300"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/CFOP",
+      "value": "5405"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/uCom",
+      "value": "UN"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/qCom",
+      "value": "1.0000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/vUnCom",
+      "value": "150.0000000000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/vProd",
+      "value": "150.00000000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/cEANTrib",
+      "value": "7898564048650"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/uTrib",
+      "value": "UN"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/qTrib",
+      "value": "1.0000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/vUnTrib",
+      "value": "150.0000000000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/vDesc",
+      "value": "50.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/indTot",
+      "value": "1"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/prod/xPed",
+      "value": "7002703010-a"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/vTotTrib",
+      "value": "9.25"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/ICMS/ICMS60/orig",
+      "value": "2"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/ICMS/ICMS60/CST",
+      "value": "60"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/ICMS/ICMS60/vBCSTRet",
+      "value": "150.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/ICMS/ICMS60/pST",
+      "value": "0.0000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/ICMS/ICMS60/vICMSSTRet",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/ICMS/ICMS60/pRedBCEfet",
+      "value": "0.0000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/ICMS/ICMS60/vBCEfet",
+      "value": "150.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/ICMS/ICMS60/pICMSEfet",
+      "value": "18.0000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/ICMS/ICMS60/vICMSEfet",
+      "value": "27.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/IPI/cEnq",
+      "value": "999"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/IPI/IPINT/CST",
+      "value": "01"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/PIS/PISAliq/CST",
+      "value": "01"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/PIS/PISAliq/vBC",
+      "value": "100.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/PIS/PISAliq/pPIS",
+      "value": "1.6500"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/PIS/PISAliq/vPIS",
+      "value": "1.65"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/COFINS/COFINSAliq/CST",
+      "value": "01"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/COFINS/COFINSAliq/vBC",
+      "value": "100.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/COFINS/COFINSAliq/pCOFINS",
+      "value": "7.6000"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/imposto/COFINS/COFINSAliq/vCOFINS",
+      "value": "7.60"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/det/infAdProd",
+      "value": "(-) Desconto 50.00- /"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vBC",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vICMS",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vICMSDeson",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vFCP",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vBCST",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vST",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vFCPST",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vFCPSTRet",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vProd",
+      "value": "150.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vFrete",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vSeg",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vDesc",
+      "value": "50.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vII",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vIPI",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vIPIDevol",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vPIS",
+      "value": "1.65"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vCOFINS",
+      "value": "7.60"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vOutro",
+      "value": "0.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vNF",
+      "value": "100.00"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vTotTrib",
+      "value": "9.25"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/transp/modFrete",
+      "value": "1"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/pag/detPag/indPag",
+      "value": "0"
     },
     {
       "key": "nfeProc/NFe/infNFe/pag/detPag/tPag",
       "value": "03"
     },
     {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vBC",
-      "value": "2000/00"
+      "key": "nfeProc/NFe/infNFe/pag/detPag/vPag",
+      "value": "100.00"
     },
     {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vICMS",
-      "value": "360/00"
+      "key": "nfeProc/NFe/infNFe/pag/detPag/dPag",
+      "value": "2024-10-10"
     },
     {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vBCST",
-      "value": "0/00"
+      "key": "nfeProc/NFe/infNFe/pag/detPag/card/tpIntegra",
+      "value": "1"
     },
     {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vST",
-      "value": "0/00"
+      "key": "nfeProc/NFe/infNFe/pag/detPag/card/CNPJ",
+      "value": "01027058000191"
     },
     {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vProd",
-      "value": "2000/00"
+      "key": "nfeProc/NFe/infNFe/pag/detPag/card/tBand",
+      "value": "01"
     },
     {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vFrete",
-      "value": "150/00"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vSeg",
-      "value": "50/00"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vDesc",
-      "value": "100/00"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vOutro",
-      "value": "25/00"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vIPI",
-      "value": "180/00"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/total/ICMSTot/vNF",
-      "value": "2305/00"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/transporta/xNome",
-      "value": "Transportadora LTDA"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/veicTransp/placa",
-      "value": "PCT9192"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/veicTransp/UF",
-      "value": "SP"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/transporta/CPF",
-      "value": "029/828/282-12"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/transporta/xEnder",
-      "value": "Av/Duque de Caxias"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/transporta/xMun",
-      "value": "São Paulo"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/transporta/UF",
-      "value": "SP"
-    },
-    {
-      "key": "Nfe/infNFe/transp/transporta/IE",
-      "value": "SP"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/vol/qVol",
-      "value": "130"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/vol/esp",
-      "value": "esp"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/vol/marca",
-      "value": "marca"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/vol/nVol",
-      "value": "nume"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/vol/pesoB",
-      "value": "100"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/transp/vol/pesoL",
-      "value": "100"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[1]/prod/cProd",
-      "value": "c prod 11111111111"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[2]/prod/cProd",
-      "value": "c prod 2"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[3]/prod/cProd",
-      "value": "c prod 3"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[1]/prod/xProd",
-      "value": "x prod 1"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[2]/prod/xProd",
-      "value": "x prod 2"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[3]/prod/xProd",
-      "value": "x prod 3"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[1]/prod/nSerie",
-      "value": "n serie 1"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[2]/prod/nSerie",
-      "value": "n serie 2"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[3]/prod/nSerie",
-      "value": "n serie 3"
-    },
-    { "key": "nfeProc/NFe/infNFe/det[1]/prod/NCM", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[2]/prod/NCM", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[3]/prod/NCM", "value": "0000" },
-
-    { "key": "nfeProc/NFe/infNFe/det[1]/prod/CST", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[2]/prod/CST", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[3]/prod/CST", "value": "0000" },
-
-    { "key": "nfeProc/NFe/infNFe/det[1]/prod/CFOP", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[2]/prod/CFOP", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[3]/prod/CFOP", "value": "0000" },
-
-    { "key": "nfeProc/NFe/infNFe/det[1]/prod/uCom", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[2]/prod/uCom", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[3]/prod/uCom", "value": "0000" },
-
-    { "key": "nfeProc/NFe/infNFe/det[1]/prod/qCom", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[2]/prod/qCom", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[3]/prod/qCom", "value": "0000" },
-
-    { "key": "nfeProc/NFe/infNFe/det[1]/prod/vUnCom", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[2]/prod/vUnCom", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[3]/prod/vUnCom", "value": "0000" },
-
-    { "key": "nfeProc/NFe/infNFe/det[1]/prod/vProd", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[2]/prod/vProd", "value": "0000" },
-    { "key": "nfeProc/NFe/infNFe/det[3]/prod/vProd", "value": "0000" },
-
-    {
-      "key": "nfeProc/NFe/infNFe/det[1]/imposto/ICMS/ICMS00/vBC",
-      "value": "0000"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[2]/imposto/ICMS/ICMS00/vBC",
-      "value": "0000"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[3]/imposto/ICMS/ICMS00/vBC",
-      "value": "0000"
-    },
-
-    {
-      "key": "nfeProc/NFe/infNFe/det[1]/imposto/ICMS/ICMS00/vICMS",
-      "value": "0000"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[2]/imposto/ICMS/ICMS00/vICMS",
-      "value": "0000"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[3]/imposto/ICMS/ICMS00/vICMS",
-      "value": "0000"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[1]/imposto/IPI/IPITrib/vIPI",
-      "value": "32"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[2]/imposto/IPI/IPITrib/vIPI",
-      "value": "32"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[3]/imposto/IPI/IPITrib/vIPI",
-      "value": "32"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[1]/imposto/ICMS/ICMS00/pICMS",
-      "value": "31"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[2]/imposto/ICMS/ICMS00/pICMS",
-      "value": "31"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[3]/imposto/ICMS/ICMS00/pICMS",
-      "value": "31"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[1]/imposto/IPI/IPITrib/pIPI",
-      "value": "33"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[2]/imposto/IPI/IPITrib/pIPI",
-      "value": "33"
-    },
-    {
-      "key": "nfeProc/NFe/infNFe/det[3]/imposto/IPI/IPITrib/pIPI",
-      "value": "33"
+      "key": "nfeProc/NFe/infNFe/pag/detPag/card/cAut",
+      "value": "100019"
     },
     {
       "key": "nfeProc/NFe/infNFe/infAdic/infCpl",
-      "value": "0000"
+      "value": "J -CARTAO DE CREDITO / ICMS recolhido anteriormente por Substituicao Tributaria conf Art 313 / Z19 paragrafo 1, RICMS SP, ICMS recolhido ant. por ICMS-ST conf Art 313 / Isento ou nao sujeito a IPI / lv / Valor IPI R$ / Cupom Fiscal: 000000 / No Pedido: 7002703010-a / Valor aproximado dos tributos R$ 9.25 (9.25%) /"
     },
     {
-      "key": "nfeProc/NFe/infNFe/total/ISSQNtot/vBC",
-      "value": "ISSQN"
+      "key": "nfeProc/NFe/infNFe/infRespTec/CNPJ",
+      "value": "74544297000192"
     },
     {
-      "key": "nfeProc/NFe/infNFe/total/ISSQNtot/vISS",
-      "value": "ISSQN valor"
+      "key": "nfeProc/NFe/infNFe/infRespTec/xContato",
+      "value": "SAP PRODUCT ENGINEERING"
     },
     {
-      "key": "nfeProc/NFe/infNFe/total/ISSQNtot/vServ",
-      "value": "v/ serviço"
+      "key": "nfeProc/NFe/infNFe/infRespTec/email",
+      "value": "RESPONSAVEL.TECNICO@SAP.COM"
+    },
+    {
+      "key": "nfeProc/NFe/infNFe/infRespTec/fone",
+      "value": "00001155032400"
+    },
+    {
+      "key": "nfeProc/NFe/Signature/SignedInfo/CanonicalizationMethod/@Algorithm",
+      "value": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+    },
+    {
+      "key": "nfeProc/NFe/Signature/SignedInfo/SignatureMethod/@Algorithm",
+      "value": "http://www.w3.org/2000/09/xmldsig#rsa-sha1"
+    },
+    {
+      "key": "nfeProc/NFe/Signature/SignedInfo/Reference/@URI",
+      "value": "#NFe35241002558157006950550000051103611523503651"
+    },
+    {
+      "key": "nfeProc/NFe/Signature/SignedInfo/Reference/Transforms/Transform[0]/@Algorithm",
+      "value": "http://www.w3.org/2000/09/xmldsig#enveloped-signature"
+    },
+    {
+      "key": "nfeProc/NFe/Signature/SignedInfo/Reference/Transforms/Transform[1]/@Algorithm",
+      "value": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+    },
+    {
+      "key": "nfeProc/NFe/Signature/SignedInfo/Reference/DigestMethod/@Algorithm",
+      "value": "http://www.w3.org/2000/09/xmldsig#sha1"
+    },
+    {
+      "key": "nfeProc/NFe/Signature/SignedInfo/Reference/DigestValue",
+      "value": "Jj1Rl2YFHRAlHTvVVnJEe+bzVRQ="
+    },
+    {
+      "key": "nfeProc/NFe/Signature/SignatureValue",
+      "value": "LhVU4DvVQY+cMM1P+1eYZDiAGrM+YObH8iAIx505A3FMxKOe2ykxvMuEyxTBquuWDpMzGd/19is4\nbWazlVinoy4UaJIhLZsCF70up4u0533BwZLi1XN4WzI4dZsSWetVrNdjw6Ukd+S8IFAd+b50+dTz\n9fQM6Hn0LxOAYmZmfZfFYpiOYelOwaj0IuhK/G/pc8U+DkV8a+Hm7U/STJ9l557AjL/5wAH4x9ns\nNd3tF2eum5JL1yfojMPC2tuI+bPzp96bHpyZH8WdCy0oraBTvyf3LmFWuwyNzeieDrk9rCPdU9My\n5cIKuSOhQ2HtHw3LpXXynr+FV7qozDjvpNspPw=="
+    },
+    {
+      "key": "nfeProc/NFe/Signature/KeyInfo/X509Data/X509Certificate",
+      "value": "MIIHkTCCBXmgAwIBAgIIMwuWnlF6fywwDQYJKoZIhvcNAQELBQAwTDELMAkGA1UEBhMCQlIxEzAR\nBgNVBAoMCklDUC1CcmFzaWwxKDAmBgNVBAMMH1NFUkFTQSBDZXJ0aWZpY2Fkb3JhIERpZ2l0YWwg\ndjUwHhcNMjQwMjA1MTkwNDAwWhcNMjUwMjA0MTkwMzU5WjCB2TELMAkGA1UEBhMCQlIxEzARBgNV\nBAoMCklDUC1CcmFzaWwxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRQwEgYDVQQLDAsoRU0gQlJBTkNP\nKTEUMBIGA1UECwwLKEVNIEJSQU5DTykxJTAjBgNVBAsMHFNFUkFTQSBDZXJ0aWZpY2Fkb3JhIERp\nZ2l0YWwxFzAVBgNVBAsMDjE0NjAyMjY5MDAwMTUyMRMwEQYDVQQLDApQUkVTRU5DSUFMMR4wHAYD\nVQQDDBVURUxFRk9OSUNBIEJSQVNJTCBTIEEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB\nAQDQvURp4MdBTjKZPTpvyZh4C/S8s3Ld4BIj68N1avFh49j6pUvZ5C0QMRmB0/CAJzHH/jE87oY4\nU/vVHJahim76J6wnk0u8D0fWoFB80HXk1nie4gTYGjpIzlTWXhQiOSwoiWMHGUMKeDCOtlU53GKr\nplhPkPL2BgGKm9E94Q7aw6edVrQfWWsVQwt2KF73lvzbLIM/Koc3hyyhJvQJ9VCfe37pVZSI23lm\nsI4eRPGbLmWju7JfGIgQeI8qcT7TWeS/WFDDr55LJrS2KXKc00m5caJgSVa+5NXJQd7hiNxntk+c\niVffzC3wTK7QM9LcII26W/g5gY/IuLziPMHsBhHpAgMBAAGjggLnMIIC4zAfBgNVHSMEGDAWgBRW\nda9Kc7LYCMR9+2woHBHV98GozDCBlwYIKwYBBQUHAQEEgYowgYcwRwYIKwYBBQUHMAKGO2h0dHA6\nLy93d3cuY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5ici9jYWRlaWFzL3NlcmFzYWNkdjUucDdiMDwG\nCCsGAQUFBzABhjBodHRwOi8vb2NzcC5jZXJ0aWZpY2Fkb2RpZ2l0YWwuY29tLmJyL3NlcmFzYWNk\ndjUwgcYGA1UdEQSBvjCBu4EiQ0VSVElET0VTRklTQ0FJUy5CUkBURUxFRk9OSUNBLkNPTaA+BgVg\nTAEDBKA1EzMyOTA5MTk3MjIwMzgzODYyODUwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw\nMDCgIQYFYEwBAwKgGBMWQ0hSSVNUSUFOIE1BVUFEIEdFQkFSQaAZBgVgTAEDA6AQEw4wMjU1ODE1\nNzAwMDE2MqAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwcQYDVR0gBGowaDBmBgZgTAECAQYwXDBa\nBggrBgEFBQcCARZOaHR0cDovL3B1YmxpY2FjYW8uY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5ici9y\nZXBvc2l0b3Jpby9kcGMvZGVjbGFyYWNhby1zY2QucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggr\nBgEFBQcDBDCBmwYDVR0fBIGTMIGQMEmgR6BFhkNodHRwOi8vd3d3LmNlcnRpZmljYWRvZGlnaXRh\nbC5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYWNkdjUuY3JsMEOgQaA/hj1odHRwOi8vbGNy\nLmNlcnRpZmljYWRvcy5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYWNkdjUuY3JsMB0GA1Ud\nDgQWBBTn5zuGlWh0WtHYq973pD+/p+n20DAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcNAQELBQAD\nggIBAAXIUTGSbE6KoLdckWnNWCgmQLBC0lKSDT8ydOm8ze8WyqdsxY7z0x7+MwFmrB9j+2QUhYjV\njx+HwIBue4FJtQkeJBrO4TPEFHLzYzXUg+YLiCsLptUKeuTgBxFT8levj7sm2FUmRpc+TOaU9vnB\nxlp0UxN2DPWomiXJ+CFGCWY2TVQ3y+JjJBfKNL7JyPA8njzQDKIlU2K9N6erxhO+chK4fSc7iCG0\nWH0/CLpUw6OpAR+Suj3eO/VajxuR9J2iyyI67CZsusiQomBaptNk1IiC4C0NO1VkU05OuNpScwBB\nRHtTu9KBSGWBIyNQRlG77D6mvKZj/gjOfdW+yH8fv7vozIfWXMf4gymJuFW5Ruutupq9lRXN1HN0\nf4CyZVQ9vIUUeOEl/U2pJg4+ktlu8M6LZ4zXM6uN6mhnwf8iua3/R6e417thQGeG9SIGFbrGn48a\nY8IwlQ4rQiyRtxV6KS1ysVoUIZ4FrPiFTcv2WuK6qS+QllyQJISyp5QYBo03zRPNRI9EN1HCqxob\nYtzjAtEGJlRjaHACY/zr3lSOZoBjyDsFuYNGpwwlOre6NJ1S5JEDE8LAv0Tt5oznWkwOf5JdMcw8\n260h4m7k7DebzW6VxhGfVxl62RbVGdgkvaaU7wQ4Pgrmw8eexs9vsPh/AVxH2rVCnzRV+cuXB0Lf\nGRCo"
+    },
+    {
+      "key": "nfeProc/protNFe/@versao",
+      "value": "4.00"
+    },
+    {
+      "key": "nfeProc/protNFe/infProt/tpAmb",
+      "value": "2"
+    },
+    {
+      "key": "nfeProc/protNFe/infProt/verAplic",
+      "value": "SP_NFE_PL009_V4"
+    },
+    {
+      "key": "nfeProc/protNFe/infProt/chNFe",
+      "value": "35241002558157006950550000051103611523503651"
+    },
+    {
+      "key": "nfeProc/protNFe/infProt/dhRecbto",
+      "value": "2024-10-10T18:32:46-03:00"
+    },
+    {
+      "key": "nfeProc/protNFe/infProt/nProt",
+      "value": "135240007286817"
+    },
+    {
+      "key": "nfeProc/protNFe/infProt/digVal",
+      "value": "Jj1Rl2YFHRAlHTvVVnJEe+bzVRQ="
+    },
+    {
+      "key": "nfeProc/protNFe/infProt/cStat",
+      "value": "100"
+    },
+    {
+      "key": "nfeProc/protNFe/infProt/xMotivo",
+      "value": "Autorizado o uso da NF-e"
     }
   ]
 }

@@ -1,0 +1,66 @@
+{
+  "id": "608663",
+  "isPortingToOriginal": "false",
+  "networkNumber": "11993507607",
+  "authorizationDate": "2025-04-02T23:59:59-03:00",
+  "roleProvider": "recipient",
+  "lineType": "mobile",
+  "status": "suspended",
+  "internalStatus": "suspenso-aguardando-habilitacao",
+  "sourceName": "AMDOCS",
+  "inType": "lspp",
+  "dtLastUpdate": "2025-09-19",
+  "processType": "portin",
+  "productType": "controle",
+  "salesChannel": "AMDOCS",
+  "cancellationDate": "",
+  "sms": {
+    "return": "sim",
+    "returnDate": "2025-09-22T23:59:59-03:00"
+  },
+  "subscription": {
+    "code": 203480,
+    "date": "2025-09-15T15:08:36-03:00",
+    "cancelCode": "",
+    "reasonCode": "",
+    "type": "basic",
+    "donorOperator": {
+      "authorizationId": 1,
+      "id": "0321",
+      "authorizationDueDate": "2025-04-02T23:59:59-03:00",
+      "isAuthorized": "true",
+      "name": "Claro"
+    },
+    "broadcastWindow": {
+      "dueDate": "2025-04-04T16:00:00-03:00",
+      "isSpecial": "false",
+      "duration": 9,
+      "isExtended": "false"
+    },
+    "group": {
+      "isGrouped": "false",
+      "startNumber": "11993507607"
+    },
+    "recipientOperator": {
+      "id": "0320",
+      "name": "Vivo",
+      "documentConfirmation": "true",
+      "eot": "010",
+      "EOT": "010"
+    }
+  },
+  "customer": {
+    "documentNumber": "17011394052",
+    "name": "Portabilidade HealthCheck",
+    "type": "individual"
+  },
+  "message": {
+    "id": "1136466223",
+    "name": "AttributeValueChangeNotification",
+    "date": "2025-04-01T15:09:07-03:00"
+  },
+  "eaFault": {
+    "code": "",
+    "info": ""
+  }
+}

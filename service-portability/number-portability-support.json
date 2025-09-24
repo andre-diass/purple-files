@@ -1,0 +1,11 @@
+{
+  "externalId": "ext-123456",
+  "mainItemId": "item-987654",
+  "message": "Request to port the number has been initiated.",
+  "orderActionId": "order-20250924-001",
+  "portabilityPhoneNumber": "+15551234567",
+  "portabilityWindow": "2025-09-25T10:00:00Z",
+  "serviceProvider": "ExampleTelco",
+  "status": "pending",
+  "temporaryPhoneNumber": "+15557654321"
+}
